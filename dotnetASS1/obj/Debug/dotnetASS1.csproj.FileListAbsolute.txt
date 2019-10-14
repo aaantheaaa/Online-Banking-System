@@ -1,0 +1,14 @@
+C:\Users\el181\Desktop\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.csprojAssemblyReference.cache
+C:\Users\el181\Desktop\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.csproj.CoreCompileInputs.cache
+C:\Users\el181\Desktop\dotnetASS1\dotnetASS1\bin\Debug\dotnetASS1.exe.config
+C:\Users\el181\Desktop\dotnetASS1\dotnetASS1\bin\Debug\dotnetASS1.exe
+C:\Users\el181\Desktop\dotnetASS1\dotnetASS1\bin\Debug\dotnetASS1.pdb
+C:\Users\el181\Desktop\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.exe
+C:\Users\el181\Desktop\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.pdb
+C:\Users\el181\Desktop\DotNet\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.csprojAssemblyReference.cache
+C:\Users\el181\Desktop\DotNet\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.csproj.CoreCompileInputs.cache
+C:\Users\el181\Desktop\DotNet\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.exe
+C:\Users\el181\Desktop\DotNet\dotnetASS1\dotnetASS1\obj\Debug\dotnetASS1.pdb
+C:\Users\el181\Desktop\DotNet\dotnetASS1\dotnetASS1\bin\Debug\dotnetASS1.exe.config
+C:\Users\el181\Desktop\DotNet\dotnetASS1\dotnetASS1\bin\Debug\dotnetASS1.exe
+C:\Users\el181\Desktop\DotNet\dotnetASS1\dotnetASS1\bin\Debug\dotnetASS1.pdb

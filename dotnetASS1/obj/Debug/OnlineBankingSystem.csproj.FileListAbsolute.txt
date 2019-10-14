@@ -1,0 +1,7 @@
+C:\Users\el181\Documents\GitHub\Online-Banking-System\dotnetASS1\bin\Debug\dotnetASS1.exe.config
+C:\Users\el181\Documents\GitHub\Online-Banking-System\dotnetASS1\bin\Debug\dotnetASS1.exe
+C:\Users\el181\Documents\GitHub\Online-Banking-System\dotnetASS1\bin\Debug\dotnetASS1.pdb
+C:\Users\el181\Documents\GitHub\Online-Banking-System\dotnetASS1\obj\Debug\OnlineBankingSystem.csprojAssemblyReference.cache
+C:\Users\el181\Documents\GitHub\Online-Banking-System\dotnetASS1\obj\Debug\OnlineBankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\el181\Documents\GitHub\Online-Banking-System\dotnetASS1\obj\Debug\dotnetASS1.exe
+C:\Users\el181\Documents\GitHub\Online-Banking-System\dotnetASS1\obj\Debug\dotnetASS1.pdb
